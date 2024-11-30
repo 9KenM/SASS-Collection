@@ -68,6 +68,7 @@ sass/
 │   ├── _reset.scss        # CSS reset/normalize
 │   ├── _typography.scss   # Typography rules
 │   ├── _animations.scss   # Global animations
+│   ├── _colors.scss      # Global color palettes
 │   └── _utilities.scss    # Utility classes
 ├── layout/                 # Layout patterns
 │   ├── _grid.scss        # Grid system
